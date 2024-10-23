@@ -1,6 +1,6 @@
 # VentoPay
 
-# The Organization consists of tow private repositories
+# The Organization consists of two private repositories
 # For Frontend run the commands below
 1: yarn install
 2: yarn start
@@ -15,4 +15,4 @@
 3: reCAPTCHA and firebase setup on the specific google console account from the owner
 
 
-#Migration under process from php/laravel
+# Migration under process from php/laravel
